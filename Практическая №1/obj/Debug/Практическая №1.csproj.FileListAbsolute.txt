@@ -1,0 +1,7 @@
+C:\Users\Leefaut\source\repos\Практическая №1\Практическая №1\bin\Debug\Практическая №1.exe.config
+C:\Users\Leefaut\source\repos\Практическая №1\Практическая №1\bin\Debug\Практическая №1.exe
+C:\Users\Leefaut\source\repos\Практическая №1\Практическая №1\bin\Debug\Практическая №1.pdb
+C:\Users\Leefaut\source\repos\Практическая №1\Практическая №1\obj\Debug\Практическая №1.csproj.AssemblyReference.cache
+C:\Users\Leefaut\source\repos\Практическая №1\Практическая №1\obj\Debug\Практическая №1.csproj.CoreCompileInputs.cache
+C:\Users\Leefaut\source\repos\Практическая №1\Практическая №1\obj\Debug\Практическая №1.exe
+C:\Users\Leefaut\source\repos\Практическая №1\Практическая №1\obj\Debug\Практическая №1.pdb
